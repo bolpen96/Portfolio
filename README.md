@@ -14,12 +14,16 @@
 > - 교육기간 : 2020.09.11 ~ 2021.03.23
 > - 교육내용 : Unity, Unreal, MagicaVoxel, c#, c++ 등
 >
->> 발표 프로젝트 : HOT - AR 보드게임 플랫폼<br />
->> 팀 구성 : 아트팀장, 개발팀장, 서버프로그래머<br />
->> 핵심 역할 : C#을 활용한 보드게임 알고리즘 기획 및 제작, 클라이언트 부분 개발, Handtracking을 지원하는 manomotion sdk의 레거시 코드 분석 및 응용, Photon Server를 활용한 백엔드 개발 및 최종검토<br />
->> Language : C#, C++
+>> 발표 프로젝트 : HOT - AR 보드게임 플랫폼
 >> 
->> 프로젝트 플레이영상<br />
+>> 팀 구성 : 아트팀장, 개발팀장, 서버프로그래머
+>> 
+>> - 핵심 역할 : C#을 활용한 보드게임 알고리즘 기획 및 제작, 클라이언트 부분 개발, Handtracking을 지원하는 manomotion sdk의 레거시 코드 분석 및 응용, Photon Server를 활용한 백엔드 개발 및 최종검토
+>> 
+>> - Language : C#, C++
+>> 
+>> 프로젝트 플레이영상
+>> 
 >> (https://www.youtube.com/watch?v=iOQJeQmtkO0)
 >>
 >> 프로젝트 상세설명
