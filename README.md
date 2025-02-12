@@ -14,7 +14,7 @@
 > - 교육기간 : 2020.09.11 ~ 2021.03.23
 > - 교육내용 : Unity, Unreal, MagicaVoxel, c#, c++ 등
 >
->> - 발표 프로젝트 : HOT - AR 보드게임 플랫폼
+>> 발표 프로젝트 : HOT - AR 보드게임 플랫폼
 >> 
 >> - 팀 구성 : 아트팀장, 개발팀장, 서버프로그래머
 >> 
@@ -22,9 +22,7 @@
 >> 
 >> - Language : C#, C++
 >> 
->> 프로젝트 플레이영상
->> 
->> (https://www.youtube.com/watch?v=iOQJeQmtkO0)
+>> [프로젝트 플레이영상](https://www.youtube.com/watch?v=iOQJeQmtkO0)
 >>
 >> 프로젝트 상세설명
 >> 깃허브 링크
