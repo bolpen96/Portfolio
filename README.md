@@ -23,10 +23,9 @@
 >> - Language : C#, C++
 >> 
 >> [프로젝트 플레이영상](https://www.youtube.com/watch?v=iOQJeQmtkO0)
->>
+>> 
 >> 프로젝트 상세설명
 >> 깃허브 링크
->3ㅋ
 
 <br />
 
@@ -39,8 +38,8 @@
 >> Language : C#
 >> Skill : Unity3D, Unity2D, Google for Developer, notion, live2D, draw.io
 >>
->> 프로젝트 스크린샷
->> ![image](https://github.com/user-attachments/assets/5e2b9283-db32-481d-9c29-55dc1854d20c)
+>> 프로젝트 스크린샷 <br />
+>> 
 
 > 프로젝트 코딩
 > 프로젝트 url
