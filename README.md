@@ -35,8 +35,8 @@
 > - 역할 : 풀스택 개발자겸 기획자, Unity와 c#을 활용한 게임개발, google for developer를 활용한 Android 앱 추친 기획, <br /> notion, draw.io 등을 활용한 프로젝트 기획, 팀원들과의 협업강화를 위한 워크샵 기획
 > 
 >> 담당개발내용
->> Language : C#
->> Skill : Unity3D, Unity2D, Google for Developer, notion, live2D, draw.io
+>> - Language : C#
+>> - Skill : Unity3D, Unity2D, Google for Developer, notion, live2D, draw.io
 >>
 >> 프로젝트 스크린샷 <br />
 >> 
