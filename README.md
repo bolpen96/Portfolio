@@ -26,16 +26,22 @@
 >>
 >> 프로젝트 상세설명
 >> 깃허브 링크
->
+>3ㅋ
 
 <br />
 
 ## 2. 🖼 MIO 프로젝트
 
-> 프로젝트 기간 : 2023.12.25 ~ 2024.08.30
-> 팀원구성
-> 담당개발내용
-> 프로젝트 스크린샷
+> - 프로젝트 기간 : 2023.12.25 ~ 2024.08.30 
+> - 역할 : 풀스택 개발자겸 기획자, Unity와 c#을 활용한 게임개발, google for developer를 활용한 Android 앱 추친 기획, <br /> notion, draw.io 등을 활용한 프로젝트 기획, 팀원들과의 협업강화를 위한 워크샵 기획
+> 
+>> 담당개발내용
+>> Language : C#
+>> Skill : Unity3D, Unity2D, Google for Developer, notion, live2D, draw.io
+>>
+>> 프로젝트 스크린샷
+>> ![image](https://github.com/user-attachments/assets/5e2b9283-db32-481d-9c29-55dc1854d20c)
+
 > 프로젝트 코딩
 > 프로젝트 url
 
