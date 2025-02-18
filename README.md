@@ -43,7 +43,7 @@
 >> 
 
 > 프로젝트 코딩
-> 프로젝트 url
+> [프로젝트 상세설명](https://github.com/bolpen96/MioProject)
 
 <br />
 
