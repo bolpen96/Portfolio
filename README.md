@@ -23,10 +23,20 @@
 >> - 핵심 역할 : C#을 활용한 보드게임 알고리즘 기획 및 제작, 클라이언트 부분 개발,<br /> Handtracking을 지원하는 manomotion sdk의 레거시 코드 분석 및 응용, Photon Server를 활용한 백엔드 개발 및 최종검토
 >> 
 >> - Language : C#, C++
->> 
->> [프로젝트 플레이영상](https://www.youtube.com/watch?v=iOQJeQmtkO0)
->> 
->> [프로젝트 상세설명](https://github.com/bolpen96/HOTproject/tree/main)
+<br />
+프로젝트 스크린샷
+<br />
+<table>
+ <tr>
+  <td><img src="https://github.com/user-attachments/assets/3cef9a05-4190-4166-bb13-b9632b8cb6d7"></td>
+  <td><img src="https://github.com/user-attachments/assets/57633fb9-7ee7-4798-a955-098699d49da9"></td>
+  <td><img src="https://github.com/user-attachments/assets/1f01c48c-5174-44fd-bc18-50b8a5ae0832"></td>
+ </tr>
+</table>
+
+🎞[프로젝트 플레이영상](https://www.youtube.com/watch?v=iOQJeQmtkO0)
+ 
+📁[프로젝트 상세설명](https://github.com/bolpen96/HOTproject/tree/main)
 
 <br />
 
@@ -49,7 +59,7 @@
 </table>
 
  
- [프로젝트 상세설명](https://github.com/bolpen96/MioProject)
+📁[프로젝트 상세설명](https://github.com/bolpen96/MioProject)
 
 <br />
 
