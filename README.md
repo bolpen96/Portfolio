@@ -26,7 +26,7 @@
 >> 
 >> [프로젝트 플레이영상](https://www.youtube.com/watch?v=iOQJeQmtkO0)
 >> 
->> [프로젝트 상세설명](https://github.com/bolpen96/MioProject)
+>> [프로젝트 상세설명](https://github.com/bolpen96/HOTproject/tree/main)
 
 <br />
 
