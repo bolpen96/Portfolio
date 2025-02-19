@@ -40,10 +40,15 @@
 >> - Skill : Unity3D, Unity2D, Google for Developer, notion, live2D, draw.io
 >>
 >> 프로젝트 스크린샷 <br />
->> 
->>
->>
->> [프로젝트 상세설명](https://github.com/bolpen96/MioProject)
+<table>
+ <tr>
+  <td><img src="https://github.com/user-attachments/assets/d4e825fe-6a73-4165-8cee-82564891772b" width="640" height="336"></td>
+  <td><img src="https://github.com/user-attachments/assets/0fdd2d8e-12c1-44fb-87a4-d6eb34c3174a" width="640" height="336"></td>
+ </tr>
+</table>
+
+ 
+ [프로젝트 상세설명](https://github.com/bolpen96/MioProject)
 
 <br />
 
